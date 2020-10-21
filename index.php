@@ -10,7 +10,7 @@
   <script src="bootstrap/jquery-3.5.1.min.js"></script>
   <script src="bootstrap/js/bootstrap.min.js"></script>
 </head>
-<body class="main" style="background-image: url('images/img.jpg')";> 
+<body class="main" style="background-image: url('img.jpg')";> 
 <div class="container">
  <center> <h2>Application Form</h2>
   <br>
